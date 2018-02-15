@@ -1,0 +1,5 @@
+Used C to create a randomly generating maze that a mouse must navigate through to get to the cheese.
+The density and speed of mouse is set by the user. The mouse starts on one side while the cheese is on the other side.
+The mouse navigates the maze while the amount of steps it took is tracked. If the mouse succeeds in getting the cheese 
+the program will display "SUCCEED" and display the amount of steps took. If mouse takes over 5000 steps the program 
+displays "FAILED".
